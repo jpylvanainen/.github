@@ -3,9 +3,11 @@
 Welcome to the GitHub repository of the Cell Migration Lab! We are dedicated to understanding cell migration, focusing on cancer research. Our lab also develops image analysis tools to advance this field.
 
 ## About us
-The cell migration lab is located in Turku, Finland. The lab started in 2019 and is part of the Cell Biology department and the Center of Excellence in Cellular Mechanostasis at Åbo Akademi University. We are part of the Solution for Health research profile and INFLAMES Flagship.
+The cell migration lab is located in Turku, Finland. The lab started in 2019 and is part of the Cell Biology department at [Åbo Akademi University](https://www.abo.fi/en/). We are part of the Solution for Health research profile and [INFLAMES Flagship](https://inflames.utu.fi/). We are affiliated with [Turku Bioscience Centre](https://bioscience.fi/) and use their core facilities for our research.
 
-We are affiliated with Turku Bioscience Centre and use their core facilities for our research. In particular, we have access to state-of-the-art platforms related to genomics, zebrafish, proteomics, bioimaging, genome editing, and bioinformatics. Motivated students are always welcome to contact us!
+## Latest Research
+Discover our recent findings and publications: [Research](https://cellmig.org/featured-research/).
+
 
 ## Cell Migration Lab Software Projects
 
@@ -28,8 +30,11 @@ For more details on each project, visit our [software page](https://cellmig.org/
 ## Open Data
 Our commitment to open science extends to our datasets. We provide access to various datasets from our research, fostering collaboration and further innovation in the field.
 
-## Stay Updated
-For more insights into our work, visit our [website](https://cellmig.org/).
+## Join Us
+Motivated students are always welcome to contact us!
 
-## Contact
-For queries regarding our software, datasets, or collaboration opportunities, please [contact us](https://cellmig.org/contact/).
+## Stay Connected
+Visit our [website](https://cellmig.org/) for more insights. Follow us on [Twitter](https://twitter.com/guijacquemet).
+
+## Contact Us
+For software, dataset queries, or collaborations, please feel free to contact us.
