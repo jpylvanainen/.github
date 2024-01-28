@@ -15,7 +15,7 @@ Discover our recent findings and publications: [Research](https://cellmig.org/fe
 
 ## Cell Migration Lab Software Projects
 
-At the Cell Migration Lab, we develop and contribute to various innovative software projects to analyze microscopy images. Below are some of the key software projects from our lab:
+At the Cell Migration Lab, we develop and contribute to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
 
 - **CellTracksColab (2024)**: A platform for compiling, analyzing, and exploring tracking data using Google Colab's computational resources. [GitHub](https://github.com/guijacquemet/CellTracksColab)
 - **NanoPyx (2024)**: A library for analyzing light microscopy and super-resolution data, successor to NanoJ. [GitHub](https://github.com/HenriquesLab/NanoPyx)
