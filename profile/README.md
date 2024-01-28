@@ -1,4 +1,4 @@
-![Banner]([URL_of_the_image](https://github.com/CellMigrationLab/.github/blob/main/images/banner.png))
+![Banner](https://github.com/CellMigrationLab/.github/blob/main/images/banner.png)
 
 
 # Cell Migration Lab
