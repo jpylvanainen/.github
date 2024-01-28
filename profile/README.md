@@ -1,3 +1,6 @@
+![Banner]([URL_of_the_image](https://github.com/CellMigrationLab/.github/blob/main/images/banner.png))
+
+
 # Cell Migration Lab
 
 Welcome to the GitHub repository of the [Cell Migration Lab](https://cellmig.org/)! We are dedicated to understanding cell migration, focusing on cancer research. Our lab also develops image analysis tools to advance this field.
