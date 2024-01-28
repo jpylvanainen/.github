@@ -9,11 +9,11 @@ Welcome to the GitHub repository of the [Cell Migration Lab](https://cellmig.org
 ## About us
 The cell migration lab is located in Turku, Finland. The lab started in 2019 and is part of the Cell Biology department at [Åbo Akademi University](https://www.abo.fi/en/). We are part of the Solution for Health research profile and [INFLAMES Flagship](https://inflames.utu.fi/). We are affiliated with [Turku Bioscience Centre](https://bioscience.fi/) and use their core facilities for our research.
 
-## Latest Research
+## [Latest Research](https://cellmig.org/featured-research/)
 Discover our recent findings and publications: [Research](https://cellmig.org/featured-research/).
 
 
-## Software Projects
+## [Software Projects](https://cellmig.org/software/)
 
 At the Cell Migration Lab, we develop and contribute to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
 
@@ -30,8 +30,8 @@ At the Cell Migration Lab, we develop and contribute to various innovative softw
 
 For more details on each project, visit our [software page](https://cellmig.org/software/).
 
-## Open Data
-We're committed to open science principles at the Cell Migration Lab. When possible, our datasets, stemming from extensive research, are made publicly available to catalyze further scientific discovery and collaboration. These datasets cover diverse topics. Explore our datasets and contribute to the ongoing scientific dialogue. Visit our [GitHub page](GitHub Page Link) for a comprehensive list of our open datasets.
+## [Open Data](https://github.com/CellMigrationLab/CellMigrationLab_Datasets)
+We're committed to open science principles at the Cell Migration Lab. When possible, our datasets, stemming from extensive research, are made publicly available to catalyze further scientific discovery and collaboration. These datasets cover diverse topics. Explore our datasets and contribute to the ongoing scientific dialogue. Visit our [GitHub page](https://github.com/CellMigrationLab/CellMigrationLab_Datasets) for a comprehensive list of our open datasets.
 
 ## Join Us
 Motivated students are always welcome to contact us!
