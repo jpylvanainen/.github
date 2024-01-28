@@ -1,5 +1,3 @@
-![Banner](https://github.com/CellMigrationLab/.github/blob/main/images/banner.png)
-
 
 # Cell Migration Lab
 
@@ -41,3 +39,5 @@ Visit our [website](https://cellmig.org/) for more insights. Follow us on [Twitt
 
 ## Contact Us
 For software, dataset queries, or collaborations, please feel free to contact us.
+
+![Banner](https://github.com/CellMigrationLab/.github/blob/main/images/banner.png)
