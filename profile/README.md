@@ -31,7 +31,9 @@ At the Cell Migration Lab, we develop and contribute to various innovative softw
 For more details on each project, visit our [software page](https://cellmig.org/software/).
 
 ## [Open Data](https://github.com/CellMigrationLab/CellMigrationLab_Datasets)
-We're committed to open science principles at the Cell Migration Lab. When possible, our datasets, stemming from extensive research, are made publicly available to catalyze further scientific discovery and collaboration. These datasets cover diverse topics. Explore our datasets and contribute to the ongoing scientific dialogue. Visit our [GitHub page](https://github.com/CellMigrationLab/CellMigrationLab_Datasets) for a comprehensive list of our open datasets.
+We're committed to open science principles at the Cell Migration Lab. When possible, our datasets, stemming from extensive research, are made publicly available to catalyze further scientific discovery and collaboration. These datasets cover diverse topics. Explore our datasets and contribute to the ongoing scientific dialogue. Visit our [GitHub page](https://github.com/CellMigrationLab/Datasets) for a comprehensive list of our open datasets.
+
+If you are interested in our deep learning models and training dataset, check our [Model Zoo](https://github.com/CellMigrationLab/ModelZoo).
 
 ## Join Us
 Motivated students are always welcome to contact us!
