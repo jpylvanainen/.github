@@ -17,7 +17,8 @@ Discover our recent findings and publications: [Research](https://cellmig.org/fe
 
 At the Cell Migration Lab, we develop and contribute to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
 
-- **CellTracksColab (2024)**: A platform for compiling, analyzing, and exploring tracking data using Google Colab's computational resources. [GitHub](https://github.com/guijacquemet/CellTracksColab)
+- **PhotoFiTT (2024)**: Phototoxicity Fitness Time Trial. A Quantitative Framework for Assessing Phototoxicity in Live-Cell. [GitHub](https://github.com/HenriquesLab/PhotoFiTT)
+- **CellTracksColab (2024)**: A platform for compiling, analyzing, and exploring tracking data. [GitHub](https://github.com/guijacquemet/CellTracksColab)
 - **NanoPyx (2024)**: A library for analyzing light microscopy and super-resolution data, successor to NanoJ. [GitHub](https://github.com/HenriquesLab/NanoPyx)
 - **DL4MicEverywhere (2024)**: An extension of ZeroCostDL4Mic, featuring interactive Jupyter notebooks for bioimage analysis using deep learning. [GitHub](https://github.com/HenriquesLab/DL4MicEverywhere)
 - **eSRRF (2023)**: Provides super-resolution approach and optimal parameter prediction for super-resolution microscopy. [GitHub](https://github.com/HenriquesLab/NanoJ-eSRRF)
