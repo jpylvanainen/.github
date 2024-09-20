@@ -15,8 +15,9 @@ Discover our recent findings and publications: [Research](https://cellmig.org/fe
 
 ## [Software Projects](https://cellmig.org/software/)
 
-At the Cell Migration Lab, we develop and contribute to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
+At the Cell Migration Lab, we develop, co-develop and contribute (in various ways) to various innovative software projects to analyze microscopy images. Below are some of the key software projects we have been involved with:
 
+- **SReD**: Structural Repetition Detector Plugin for ImageJ and Fiji [GitHub](https://github.com/HenriquesLab/SReD)
 - **PhotoFiTT (2024)**: Phototoxicity Fitness Time Trial. A Quantitative Framework for Assessing Phototoxicity in Live-Cell. [GitHub](https://github.com/HenriquesLab/PhotoFiTT)
 - **CellTracksColab (2024)**: A platform for compiling, analyzing, and exploring tracking data. [GitHub](https://github.com/guijacquemet/CellTracksColab)
 - **NanoPyx (2024)**: A library for analyzing light microscopy and super-resolution data, successor to NanoJ. [GitHub](https://github.com/HenriquesLab/NanoPyx)
